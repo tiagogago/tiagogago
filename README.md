@@ -34,9 +34,17 @@ I’m here to build robust web solutions and ensure smooth collaboration with yo
 
 Let’s connect!
 
-📧 **Email**: tiago.gago60@gmail.com  
+<p>
+📧 **Email**: tiago.gago60@gmail.com
+</p>
+<p>
 📱 **WhatsApp**: +351 910 681 388
+</p>
+<p>
 🪪**Portfolio** <a href="https://tiagogago.github.io/Portefolio/#" />
+</p>
+<p>
 🎯**Linkedin** <a href="https://www.linkedin.com/in/tiago-gago-37060627b/" />
+</p>
 
 
