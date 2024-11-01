@@ -41,10 +41,8 @@ Let’s connect!
 📱 *WhatsApp*: +351 910 681 388
 </p>
 <p>
-<a href=“https://tiagogago.github.io/Portefolio/#“>🪪*Portfolio*</a>
+<a href="https://tiagogago.github.io/Portefolio/">🪪Portfolio</a>
 </p>
-<p>
-<a href=“[http://exemplo.com/](https://www.linkedin.com/in/tiago-gago-37060627b/“>🎯*Linkedin*</a>
-</p>
+ <a href="https://www.linkedin.com/in/tiago-gago-37060627b/">🎯Linkedin</a>
 
-
+![](icon)
