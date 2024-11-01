@@ -35,14 +35,12 @@ I’m here to build robust web solutions and ensure smooth collaboration with yo
 Let’s connect!
 
 <p>
-📧 *Email*: tiago.gago60@gmail.com
+<a href="mailto:tiago.gago60@gmail.com subject=I%20want%20to%20know%20more%20about%20your%20work&body=Hello%2C%20I%20would%20like%20to%20know%20more%20about%20your%20work%2C%20could%20we%20arrange%C2%A0an%C2%A0interview%3F">📧 Email</a>
 </p>
 <p>
-📱 *WhatsApp*: +351 910 681 388
+<a href="https://api.whatsapp.com/send?phone=+351910681388&text=Hello%2C+I+would+like+to+know+more+about+your+work%2C+could+we+arrange+an+interview%3F" title="Whatsapp">📱 WhatsApp</a>
 </p>
 <p>
 <a href="https://tiagogago.github.io/Portefolio/">🪪Portfolio</a>
 </p>
  <a href="https://www.linkedin.com/in/tiago-gago-37060627b/">🎯Linkedin</a>
-
-![](icon)
