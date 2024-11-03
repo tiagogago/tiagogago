@@ -30,7 +30,7 @@ I’m here to build robust web solutions and ensure smooth collaboration with yo
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogago&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
----
+----
 
 Let’s connect!
 
