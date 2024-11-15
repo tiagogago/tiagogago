@@ -41,6 +41,6 @@ Let’s connect!
 <a href="https://api.whatsapp.com/send?phone=+351910681388&text=Hello%2C+I+would+like+to+know+more+about+your+work%2C+could+we+arrange+an+interview%3F" title="Whatsapp">📱 WhatsApp</a>
 </p>
 <p>
-<a href="https://tiagogago.github.io/Portefolio/">🪪Portfolio</a>
+<a href="https://tiagogago.github.io/Portfolio/">🪪Portfolio</a>
 </p>
  <a href="https://www.linkedin.com/in/tiago-gago-37060627b/">🎯Linkedin</a>
